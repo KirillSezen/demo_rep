@@ -2,3 +2,4 @@ test git
 my first one
 oh yeah
 keep on
+check git gui
