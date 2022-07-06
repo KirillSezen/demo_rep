@@ -5,3 +5,5 @@ ok
 it's working
 
 checking branches
+
++1line check non-forward merge
