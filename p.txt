@@ -1,3 +1,5 @@
 test git
 my first one
 oh yeah
+
++1line check non-forward merge
